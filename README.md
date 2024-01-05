@@ -70,6 +70,7 @@ Track progress against the plan, adapt to any changes and ensure the project sta
 
 ### Closure:
 Here you submit your project on the project submission form that will be provided on 5th January 2023 ...You will submit your GitHub link a video on YouTube on how your project works and if you worked in a group your group members' names.
+The video link on YouTube channel is https://youtu.be/P_bZ-JZRHiA?si=8SoaV42swWCKzdmM
 
 Additional Notes:
 
