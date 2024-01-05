@@ -4,7 +4,7 @@ For this holiday we will be working on a project idea will be submitting for gra
 So will  go through the 5 stages of project management  if you feel this tough you can use the same process on a portfolio project. 
 
 # Methodology: Use the five stages of project management to guide your work.
-![Minimalist Project Management Process Infographic Graph](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/1494d569-ec02-4647-b49d-ac2b2bff2849)
+![Minimalist Project Management Process Infographic Graph] 
 Take a pen and a book then write down the stages...and use it as a guide when you finish stage one tick it on your book.
 
 
@@ -12,7 +12,7 @@ Take a pen and a book then write down the stages...and use it as a guide when yo
 
 ### Initiation:
 Here you will do brain storming you will ask yourself the following questions.
-* 1. What am I good at? (Mention at least five things..include your profession or school work)gitg
+* 1. What am I good at? (Mention at least five things..include your profession or school work)
 I am good in the folowing areas:
 a. teaching
 b. mentorship programmes in educational matters
@@ -37,7 +37,7 @@ Among the many goals, I would like to see learners have a flawless learning proc
 I can design a great LMS which has numerous features.
 This LMS can be integrated in the teaching-learning process to ease the burden of irrelevant content by the learners.
 
-![Project Initiation phase  ](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/cde7b79a-2703-4f67-9403-51d22dd93da3)
+![Project Initiation phase  ]
 
 ## Planning: 
 Here try and think about how your project will look like. Ask the following Questions?
@@ -75,5 +75,3 @@ Additional Notes:
 
 Consider specifying the nature of the project (e.g., research, community service, design, etc.) for better understanding.
 If using the same project for different programs, clearly differentiate the specific deliverables and completion dates for each.
-
- 
